@@ -2,7 +2,7 @@
 A temperature-controlled fan using ATmega16 microcontroller, in which the fan is automatically turned ON or OFF according to the temperature.
 ## Main Components
 - ATmege16 
-- 4*16 LCD
+- 2*16 LCD
 - LM35
 - DC Motor
 - L293D
